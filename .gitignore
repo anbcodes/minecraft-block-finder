@@ -1,0 +1,5 @@
+dist
+node_modules
+data.mca
+cache.json
+found.json
